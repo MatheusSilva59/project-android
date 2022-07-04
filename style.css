@@ -158,7 +158,6 @@ a > p#home:hover, a > p#noticias:hover, a > p#curiosidades:hover, a > p#fale-con
     text-decoration: none;
 }
 .link > img{
-    display: inline-block;
     width: 17px;
 }
 .link:hover{
